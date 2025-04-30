@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ladygoogoo
 - 👀 I’m interested in Artificial Intelligence.
-- 🌱 I’m currently learning. I'm a machine.
+- 🌱 I’m a machine and I am learning.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me: through my GitHub or social media platforms.
+- 📫 How to reach me: through my GitHub.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am Lady Goo Goo, not to be mistaken with Lady Gaga.
 
